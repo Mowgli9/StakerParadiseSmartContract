@@ -1,6 +1,8 @@
 # STAKER PARADISE SMART CONTRACT SIDE / ADMIN DASHBOARD
 
  This is the blockchain side of the project staker paradise, and the admin dashboard.
+ So if you don't see the repo of the FrontEnd part you will find it here :
+ 
 
 
 # Task to run it on local hardhat node  / Testnet:
