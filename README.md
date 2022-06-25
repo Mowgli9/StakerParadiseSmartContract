@@ -1,7 +1,12 @@
 # STAKER PARADISE SMART CONTRACT SIDE / ADMIN DASHBOARD
 
  This is the blockchain side of the project staker paradise, and the admin dashboard.
- So if you don't see the repo of the FrontEnd part you will find it here :
+ 
+ ! important : all the information about the project you find it on the repo bellow : 
+ 
+ The frontend repo : 
+ 
+ 
  
 
 
