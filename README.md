@@ -1,3 +1,9 @@
+🙃🙃🙃🙃 Disclamer : I don't suggest you to use this smart contract, It was only for me to learn more about Solidity ` Who the f* wrote this smart contract 😆😆😆😆 `
+
+
+
+
+
 # STAKER PARADISE SMART CONTRACT SIDE / ADMIN DASHBOARD
 
  This is the blockchain side of the project staker paradise, and the admin dashboard.
